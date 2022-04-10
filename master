@@ -1,9 +1,1 @@
-pdc
-Azure uses large-scale virtualization at Microsoft data centers worldwide and it offers more than 600 services.[8]
-
-Computer services
-Virtual machines, infrastructure as a service (IaaS) allowing users to launch general-purpose Microsoft Windows and Linux virtual machines, as well as preconfigured machine images for popular software packages.[9]
-Most users run Linux on Azure, some of the many Linux distributions offered, including Microsoft's own Linux-based Azure Sphere.[10]
-App services, platform as a service (PaaS) environment letting developers easily publish and manage websites.
-Websites, Azure Web Sites allows developers to build sites using ASP.NET, PHP, Node.js, Java, or Python and can be deployed using FTP, Git, Mercurial, Team Foundation Server or uploaded through the user portal. This feature was announced in preview form in June 2012 at the Meet Microsoft Azure event.[11] Customers can create websites in PHP, ASP.NET, Node.js, or Python, or select from several open source applications from a gallery to deploy. This comprises one aspect of the platform as a service (PaaS) offerings for the Microsoft Azure Platform. It was renamed to Web Apps in April 2015.[6][12]
-WebJobs, applications that can be deployed to an App Service environment to implement background processing that can be invoked on a schedule, on demand, or run continuously. The Blob, Table and Queue services can be used to communicate between WebApps,XYZ,iOS Softwares and WebJobs and to provide state.[5]
+PDC assigment 
